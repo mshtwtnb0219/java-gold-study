@@ -2,7 +2,7 @@
 
 | Chapter | Topic | Summary | Keyword | Level | File |
 |---|---|---|---|:---:|---|
-| chap01 | topic01 | まさ | TODO | TODO | `src\main\java\org\example\chap01\topic01\Main.java` |
+| chap01 | topic01 | ラッパークラス | 基本型→参照型(ボクシング) 参照型→基本型(アンボクシング) | A | `src\main\java\org\example\chap01\topic01\Main.java` |
 | chap01 | topic02 | TODO | TODO | TODO | `src\main\java\org\example\chap01\topic02\Main.java` |
 | chap01 | topic03 | TODO | TODO | TODO | `src\main\java\org\example\chap01\topic03\Main.java` |
 

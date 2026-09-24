@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-REM バッチの実行方法
+REM バッチの実行方法oke
 REM .\create-topic.bat 01 2
 
 if "%~1"=="" (
