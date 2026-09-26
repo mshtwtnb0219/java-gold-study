@@ -1,8 +1,8 @@
 package org.example.chap01.topic03;
 
 // Summary: ジェネリクス
-// Keyword: TODO
-// Level: TODO
+// Keyword: 非ジェネリッククラスの場合、オブジェクトを作成する際に別の参照型で定義してそのあとからダウンキャストすると例外が発生するため
+// Level: C
 
 public class Main {
 
