@@ -1,4 +1,4 @@
-package org.example.chap01.topic01;
+package org.example.chap01.topic11;
 
 // Summary: ラッパークラス
 // Keyword: 基本型→参照型(ボクシング) valueOf() 参照型→基本型(アンボクシング) xxxValue()
@@ -39,5 +39,12 @@ public class Main {
 
         long lValue = 10L;
         Long obj2 = Long.valueOf(lValue);
+
+        int i3 = 1;
+        Integer obj3 = Integer.valueOf(i3);
+
+        int i4 = obj3.intValue();
+
+
     }
 }

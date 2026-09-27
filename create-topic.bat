@@ -1,8 +1,8 @@
 @echo off
 setlocal
 
-REM バッチの実行方法oke
-REM .\create-topic.bat 01 2
+REM バッチの実行方法oke  1章の1.1の場合↓
+REM .\create-topic.bat 01 11
 
 if "%~1"=="" (
     echo Usage: create-topic.bat [chapter] [topic]

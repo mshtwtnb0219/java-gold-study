@@ -1,4 +1,4 @@
-package org.example.chap01.topic03;
+package org.example.chap01.topic21;
 
 // Summary: ジェネリクス
 // Keyword: 非ジェネリッククラスの場合、オブジェクトを作成する際に別の参照型で定義してそのあとからダウンキャストすると例外が発生するため
