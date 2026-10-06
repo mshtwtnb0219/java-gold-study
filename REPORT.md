@@ -17,6 +17,11 @@
 | chap01 | topic42 | コレクションフレームワーク | Set<E>インターフェース HashSet<E> LinkedHashSet<E> TreeSet<E> | B | `src\main\java\org\example\chap01\topic42\Main.java` |
 | chap01 | topic43 | コレクションフレームワーク | Queue<E> Deque<E> | B | `src\main\java\org\example\chap01\topic43\Main.java` |
 | chap01 | topic44 | コレクションフレームワーク | Map<K,V> Mapの全要素を取得 Set<E> keyset = map.keyset()  Mapの全valueを取得 Collection<E> values = map.values()  Mapの全キー/値を取得  Set<Map.Entry<K,V>> entry = map.entrySet() | C | `src\main\java\org\example\chap01\topic44\Main.java` |
+| chap01 | topic51 | コレクションのソート | Comparable<T>　compareTo()をOverride this == o (並び替えなし) this < o (this → oの順) this > o ( o → thisの順) | C | `src\main\java\org\example\chap01\topic51\Main.java` |
+| chap01 | topic52 | コレクションのソート | Comparator<T> | C★ | `src\main\java\org\example\chap01\topic52\Main.java` |
+| chap01 | topic61 | コレクション用の便利なメソッド | Collectionsクラス binarySearchは順序付けである必要がある | A | `src\main\java\org\example\chap01\topic61\Main.java` |
+| chap01 | topic62 | コレクション用の便利なメソッド | Arraysクラス | B | `src\main\java\org\example\chap01\topic62\Main.java` |
+| chap01 | topic63 | コレクション用の便利なメソッド | 変更不可のコレクション　of() nullも許容されない | C | `src\main\java\org\example\chap01\topic63\Main.java` |
 
 ## Level
 

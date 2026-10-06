@@ -2,7 +2,7 @@ package org.example.chap01.topic63;
 
 // Summary: コレクション用の便利なメソッド
 // Keyword: 変更不可のコレクション　of() nullも許容されない
-// Level: TODO
+// Level: C
 
 import com.sun.security.jgss.GSSUtil;
 
