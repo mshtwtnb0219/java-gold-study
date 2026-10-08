@@ -20,9 +20,19 @@ public class Main {
                 mValue = 0; lValue = 0;
 //                num2 = 0;
             }
+        }
+        class Local2 {
+            void hello() {
+                System.out.println("Hello");
+//                num2 = 100; // num2は実質的にfinalになっているため変更はできない
+//                num2++;
+            }
 
         }
+
+
         new Local().print();
+        new Local2().hello();
     }
 
     public static void main(String[] args) {
